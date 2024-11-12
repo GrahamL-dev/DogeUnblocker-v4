@@ -37,15 +37,15 @@ setInterval(updateClock, 1000);
 
 
 const options = [
-    "Right-Click to access more features",
-    "Set a custom background in settings.",
-    "Tab Cloaking is highly recommended",
-    "About:Blank Cloak is highly recommended",
-    "Finally, an actual site unblocker that works fast!",
-    "It is not recommended to share this link with anyone.",
-    "discord.gg/unblocking for more",
-    "© Copyright 2024 Doge Network. All Rights Reserved.",
-    "Customize Doge by going to Settings > Themes",
+    "I hate Isaac walker",
+    "I hate Isaac walker",
+    "I hate Isaac walker",
+    "I hate Isaac walker",
+    "I hate Isaac walker",
+    "I hate Isaac walker",
+    "I hate Isaac walker",
+    "I hate Isaac walker",
+    "I hate Isaac walker",
 ];
 
 function getRandomOption() {
